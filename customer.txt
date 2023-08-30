@@ -1,1 +1,36 @@
-git
+                    ######## Customer Segmentation ###########
+''' In this file , we give the brief introduction of this project for better understanding'''
+
+''' A good understanding of customers is extremely important for running a succesful business
+   KYC or 'Know Your Customer' is what actually makes all the difference for many companies.
+   KYC helps them do their best in Creating Communicating, and delivering their offerings
+   by tailoring them to their customer's needs. and that make customer analytics the most
+   important part of both marketing analytics and the marketing function of a company in general.
+   But understanding and meeting customers needs is easier said than done . in fact , customer
+   Analytics is a very broad area. It may include a wide range of characterstics of customers
+    and their behaviour and numerouos different outcomes and performance indicators that 
+    the business might be interested in.
+'''
+
+'''In this project we use one the most fundamental marketing frameworks that of segmenattion ,, targeting
+ and positioning, known as the 'S T P framework'.
+
+ The 'S T P framework' is the most logical choice, as it applies to all areas of business
+ and marketing activites . The datasets that we'll work with come from a B-2-C business model.
+ This means that the clients of our business are individual pepole rather than firms or institutions.
+ And that'ss much better from data science point of view, as we usually have more data points.'''
+
+     ######### STP framework ###############
+     It lays out the classical process of exploring potential customers and understanding them.
+     The 'S T P framework ' consists of 3 consecutive steps:
+       1) s for segmenation 
+       2) T for targeting
+       3) P for positioning
+
+     1) Segmentation : Segmentation is the process of dividing a population of potential or existing
+      customers into groups that share similar characterstics. The underlying idea is that, most likely
+      these groups will have comparable purchase behaviours. Furthermore, these segments would
+      probably respond similarly to different marketing activites.
+
+
+
